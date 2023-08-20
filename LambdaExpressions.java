@@ -19,7 +19,7 @@ public class LambdaExpressions {
 //
 //
 //
-//    1.   Use the three different types of lambda expressions with a forEach(),removeIf or method.
+//    1.   Use the three different types of lambda expressions with a forEach() or removeIf  method.
 
     public static void main(String[] args) {
         String[] name = { "Peter","John", "James","Simon","Bartholomew","Andrew","Jude","Matthew"};
@@ -30,8 +30,6 @@ public class LambdaExpressions {
         ArrayList<String> nameList = new ArrayList<>(Arrays.asList(name));
         ArrayList<Integer> numList = new ArrayList<>(Arrays.asList(numbers));
 
-
-        //Testing
 
 
 
